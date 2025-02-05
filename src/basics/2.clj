@@ -4,4 +4,5 @@
 
 (defn problem-2
   [value]
-  (= (- 10 (* 2 3)) value))
+  (= (- 10 (* 2 3))
+     value))
