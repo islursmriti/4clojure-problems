@@ -1,4 +1,4 @@
-(ns basics.Nothing-but-the-Truth
+(ns basics.nothing-but-the-truth
   (:gen-class))
 
 

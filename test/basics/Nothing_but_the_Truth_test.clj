@@ -1,6 +1,6 @@
-(ns basics.Nothing-but-the-Truth-test
+(ns basics.nothing_but_the_truth_test
   (:require [clojure.test :refer :all]
-            [basics.Nothing-but-the-Truth :as nbtt]))
+            [basics.nothing-but-the-truth :as nbtt]))
 
 
 (deftest test-problem-1
